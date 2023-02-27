@@ -360,7 +360,6 @@ if __name__ == '__main__':
         ]
     )
 
-
     # if not exists("vendor/avro"):
     #     download_source_files()
     if not exists(STATIC_LIB):
